@@ -1,1 +1,1 @@
-web: gunicorn module/main:app
+web: gunicorn /module/main:app
